@@ -1,0 +1,13 @@
+.idea
+.svn
+/media/covers/*
+/media/tmp/*
+/media/cache/*
+/bin
+/include
+/lib
+/local
+*.log
+*.pot
+*.pyc
+local_settings.py
